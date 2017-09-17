@@ -2,6 +2,10 @@ package com.gmail.malynovskyiroman.javaOOP;
 
 import java.io.*;
 
+/*Используя стандартные методы сериализации создайте мини базу
+        данных для работы с группами студентов (возможность записи и чтения
+        базы из файла по запросу пользователя).*/
+
 public class Main {
     public static void main(String[] args) {
         Group group1 = new Group(1);
